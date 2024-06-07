@@ -170,6 +170,8 @@
     </ul>
   </div>
 
+  <h1>Login Form</h1>
+
   <main class="form-signin w-100 m-auto">
     <form method="post" action="authenticate.php">
       <img class="mb-4" src="../assets/brand/bootstrap-logo.svg" alt="" width="72" height="57" />

@@ -170,7 +170,6 @@
     </ul>
   </div>
 
-  <h1>Login Form</h1>
 
   <main class="form-signin w-100 m-auto">
     <form method="post" action="authenticate.php">
